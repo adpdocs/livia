@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/livia/static/css/main.e6c13ad2.css",
-    "main.js": "/livia/static/js/main.69ee98af.js",
+    "main.js": "/livia/static/js/main.9e7001e7.js",
     "index.html": "/livia/index.html",
     "main.e6c13ad2.css.map": "/livia/static/css/main.e6c13ad2.css.map",
-    "main.69ee98af.js.map": "/livia/static/js/main.69ee98af.js.map"
+    "main.9e7001e7.js.map": "/livia/static/js/main.9e7001e7.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.69ee98af.js"
+    "static/js/main.9e7001e7.js"
   ]
 }
