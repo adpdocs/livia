@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/livia/precache-manifest.2d292ec3efec3b1b440dfb8d23aa6c2a.js"
+  "/livia/precache-manifest.e09a4d3d1adc927cc11bcd0e93486e98.js"
 );
 
 self.addEventListener('message', (event) => {
