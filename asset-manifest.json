@@ -1,27 +1,25 @@
 {
   "files": {
-    "main.css": "/livia/static/css/main.716a6dc2.chunk.css",
-    "main.js": "/livia/static/js/main.8e3da48f.chunk.js",
-    "main.js.map": "/livia/static/js/main.8e3da48f.chunk.js.map",
-    "runtime~main.js": "/livia/static/js/runtime~main.6c6e09ad.js",
-    "runtime~main.js.map": "/livia/static/js/runtime~main.6c6e09ad.js.map",
-    "static/js/2.4f4e5c36.chunk.js": "/livia/static/js/2.4f4e5c36.chunk.js",
-    "static/js/2.4f4e5c36.chunk.js.map": "/livia/static/js/2.4f4e5c36.chunk.js.map",
-    "static/js/3.2cc7dfbb.chunk.js": "/livia/static/js/3.2cc7dfbb.chunk.js",
-    "static/js/3.2cc7dfbb.chunk.js.map": "/livia/static/js/3.2cc7dfbb.chunk.js.map",
-    "static/js/4.6da60bb7.chunk.js": "/livia/static/js/4.6da60bb7.chunk.js",
-    "static/js/4.6da60bb7.chunk.js.map": "/livia/static/js/4.6da60bb7.chunk.js.map",
-    "static/js/5.93c58faf.chunk.js": "/livia/static/js/5.93c58faf.chunk.js",
-    "static/js/5.93c58faf.chunk.js.map": "/livia/static/js/5.93c58faf.chunk.js.map",
-    "static/js/6.b1c30f6e.chunk.js": "/livia/static/js/6.b1c30f6e.chunk.js",
-    "static/js/6.b1c30f6e.chunk.js.map": "/livia/static/js/6.b1c30f6e.chunk.js.map",
-    "static/js/7.7f167e00.chunk.js": "/livia/static/js/7.7f167e00.chunk.js",
-    "static/js/7.7f167e00.chunk.js.map": "/livia/static/js/7.7f167e00.chunk.js.map",
-    "static/js/8.abf0a458.chunk.js": "/livia/static/js/8.abf0a458.chunk.js",
-    "static/js/8.abf0a458.chunk.js.map": "/livia/static/js/8.abf0a458.chunk.js.map",
+    "main.css": "/livia/static/css/main.8b92a28c.css",
+    "main.js": "/livia/static/js/main.0dfb15b5.js",
+    "static/js/88.e8408655.chunk.js": "/livia/static/js/88.e8408655.chunk.js",
+    "static/js/913.b0780cbf.chunk.js": "/livia/static/js/913.b0780cbf.chunk.js",
+    "static/js/390.afe1c13d.chunk.js": "/livia/static/js/390.afe1c13d.chunk.js",
+    "static/js/41.600decbd.chunk.js": "/livia/static/js/41.600decbd.chunk.js",
+    "static/js/483.4fe791b8.chunk.js": "/livia/static/js/483.4fe791b8.chunk.js",
+    "static/js/514.7d02ed52.chunk.js": "/livia/static/js/514.7d02ed52.chunk.js",
     "index.html": "/livia/index.html",
-    "precache-manifest.dc142945707516715b571fd5d4948232.js": "/livia/precache-manifest.dc142945707516715b571fd5d4948232.js",
-    "service-worker.js": "/livia/service-worker.js",
-    "static/css/main.716a6dc2.chunk.css.map": "/livia/static/css/main.716a6dc2.chunk.css.map"
-  }
+    "main.8b92a28c.css.map": "/livia/static/css/main.8b92a28c.css.map",
+    "main.0dfb15b5.js.map": "/livia/static/js/main.0dfb15b5.js.map",
+    "88.e8408655.chunk.js.map": "/livia/static/js/88.e8408655.chunk.js.map",
+    "913.b0780cbf.chunk.js.map": "/livia/static/js/913.b0780cbf.chunk.js.map",
+    "390.afe1c13d.chunk.js.map": "/livia/static/js/390.afe1c13d.chunk.js.map",
+    "41.600decbd.chunk.js.map": "/livia/static/js/41.600decbd.chunk.js.map",
+    "483.4fe791b8.chunk.js.map": "/livia/static/js/483.4fe791b8.chunk.js.map",
+    "514.7d02ed52.chunk.js.map": "/livia/static/js/514.7d02ed52.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b92a28c.css",
+    "static/js/main.0dfb15b5.js"
+  ]
 }
